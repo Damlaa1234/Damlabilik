@@ -1,0 +1,17 @@
+#sosyal{
+	a{
+		font-size: 1.2rem;
+		margin-right: 10px;
+		color: rgb(255, 255, 255);
+		text-decoration: none;
+		&:hover{
+			color: #cfcfcf;
+		}
+	}
+}
+.animate__animated.animate__bounceIn {
+	--animate-duration: 2s;
+}
+.animate__animated.animate__bounceInRight {
+	--animate-delay: 2s;
+  }
